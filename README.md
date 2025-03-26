@@ -1,5 +1,7 @@
 # Todoapp
 
+You can run the application on Firebase: https://todo-app-57b80.web.app/
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
 ## Development server
